@@ -1,7 +1,7 @@
 ### Hello there, I'm Hafid Saadi ! 👋
 
 
-- 🏫 I’m currently studying coding at 42 Quebec https://42quebec.com/
+- 🏫 I’m currently learning coding and programming at 42 Quebec https://42quebec.com/
 - 👫 I’m looking to collaborate on [https://github.com/byltek](https://github.com/byltek)
 - 💻 I’m currently learning C/C++, Python and Javascript
 - 🧲 I'm passionate about blockchain and decentralization
