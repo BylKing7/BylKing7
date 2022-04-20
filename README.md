@@ -9,15 +9,15 @@
 - 📮 How to reach me? 👇 or on (http://bylking.hns.to/) 
 
 <p align="center">  
-<a href="https://twitter.com/bylking7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" 
-alt="bylking7" height="30" width="30" /></a>
-<a href="https://fb.com/bylking7.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" 
-alt="bylking7" height="30" width="30" /></a>
-<a href="https://instagram.com/bylking7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" 
-alt="BylKing7" height="30" width="30" /></a>
+<a href="https://twitter.com/iflis7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" 
+alt="iflis7" height="30" width="30" /></a>
+<a href="https://fb.com/iflis7.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" 
+alt="iflis7" height="30" width="30" /></a>
+<a href="https://instagram.com/iflis7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" 
+alt="iflis7" height="30" width="30" /></a>
 <hr>
-<p align="left"> <a href="https://twitter.com/bylking7" target="blank"><img src="https://img.shields.io/twitter/follow/bylking7?logo=twitter&style=for-the-badge" 
-alt="bylking7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iflis7" target="blank"><img src="https://img.shields.io/twitter/follow/iflis7?logo=twitter&style=for-the-badge" 
+alt="iflis7" /></a> </p>
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
@@ -37,12 +37,12 @@ alt="bylking7" /></a> </p>
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BylKing7)](https://github.com/BylKing7/github-readme-stats)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BylKing7" alt="BylKing7" /> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iflis7)](https://github.com/iflis7/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iflis7" alt="iflis7" /> </p>
 
 
 
 
-<h3 style="text-align:center;">Show some ♥ by follwing me! on 👉 (http://bylking.hns.to/) 
+<h3 style="text-align:center;">Show some ♥ by follwing me! on 👉 (http://iflis7.hns.to/) 
 
 
