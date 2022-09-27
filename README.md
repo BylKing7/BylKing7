@@ -34,7 +34,7 @@ alt="iflis7" /></a> </p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" 
      alt="linux" width="20" height="20"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank">
 </p>
-
+[![hsaadi's 42 stats](https://badge42.vercel.app/api/v2/cl5s2p211013909jutf782quk/stats?cursusId=21&coalitionId=249)](https://github.com/JaeSeoKim/badge42)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iflis7)](https://github.com/iflis7/github-readme-stats)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iflis7" alt="iflis7" /> </p>
