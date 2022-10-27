@@ -43,6 +43,7 @@ alt="iflis7" /></a> </p>
 
 
 
-<h3 style="text-align:center;">Show some ♥ by follwing me! on 👉 (http://iflis.hns.is/) 
+<h3 style="text-align:center;">Show some ♥ by follwing me! on 👉 <p align="left"> <a href="https://twitter.com/iflis7" target="blank"><img src="https://img.shields.io/twitter/follow/iflis7?logo=twitter&style=for-the-badge" 
+alt="iflis7" /></a> </p>
 
 
