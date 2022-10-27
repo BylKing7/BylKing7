@@ -15,8 +15,6 @@ alt="iflis7" height="30" width="30" /></a>
 <a href="https://instagram.com/iflis7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" 
 alt="iflis7" height="30" width="30" /></a>
 <hr>
-<p align="left"> <a href="https://twitter.com/iflis7" target="blank"><img src="https://img.shields.io/twitter/follow/iflis7?logo=twitter&style=for-the-badge" 
-alt="iflis7" /></a> </p>
 
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" 
