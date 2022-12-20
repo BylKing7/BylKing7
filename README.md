@@ -5,7 +5,7 @@
 - 💻 I’m currently learning C/C++, Python and Javascript
 - 🧲 I'm passionate about blockchain and decentralization
 - 💬 Ask me about any Programming/coding/tech related stuff
-- 📮 How to reach me? 👇 or on (http://iflis.hns.is/) 
+- 📮 How to reach me? 👇 or on (http://iflis.hns.to/) 
 
 <p align="center">  
 <a href="https://twitter.com/iflis7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" 
