@@ -2,6 +2,7 @@
 
 - 🏫 I’m currently learning coding and programming at 42 Quebec https://42quebec.com/
 - 👫 I’m looking to collaborate on [https://github.com/byltek](https://github.com/byltek)
+- ⵣ Cofounder of [https://github.com/iflisen](https://github.com/iflisen)
 - 💻 I’m currently learning C/C++, Python and Javascript
 - 🧲 I'm passionate about blockchain and decentralization
 - 💬 Ask me about any Programming/coding/tech related stuff
