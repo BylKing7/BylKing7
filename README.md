@@ -12,22 +12,24 @@
 
 
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hafidsaadi) 
- [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iflis7)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iflis7/)
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=social&logo=Linkedin&logoColor=blue)](https://linkedin.com/in/hafidsaadi) 
+ [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=social&logo=Twitter&logoColor=blue)](https://twitter.com/iflis7)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=social&logo=Instagram&logoColor=red)](https://instagram.com/iflis7/)
  <img src="https://komarev.com/ghpvc/?username=iflis7" alt="iflis7" />
 <hr>
 
 
 [![GitHub followers](https://img.shields.io/github/followers/iflis7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iflis7?tab=followers)
-[![Linux](https://img.shields.io/badge/--1177AA?logo=linux&logoColor=000)](https://linux.org/)
-[![C](https://img.shields.io/badge/--1177AA?logo=c&logoColor=000)](https://cprogramming.com/)
-[![Cpp](https://img.shields.io/badge/--1177AA?logo=cplusplus&logoColor=000)](https://cpluplus.com/)
+[![Linux](https://img.shields.io/badge/--FCC624?logo=linux&logoColor=000)](https://linux.org/)
+[![C](https://img.shields.io/badge/--A8B9CC?logo=c&logoColor=000)](https://cprogramming.com/)
+[![Cpp](https://img.shields.io/badge/--00599C?logo=cplusplus&logoColor=000)](https://cpluplus.com/)
 [![TypeScript](https://img.shields.io/badge/--3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
-[![Python](https://img.shields.io/badge/--1177AA?logo=python&logoColor=eab676)](https://python.org/)
+[![Python](https://img.shields.io/badge/--3776AB?logo=python&logoColor=eab676)](https://python.org/)
+[![Django](https://img.shields.io/badge/--092E20?logo=Django&logoColor=eab676)](https://www.djangoproject.com/)
+[![FastAPI](https://img.shields.io/badge/--009688?logo=FastAPI&logoColor=eab676)](https://fastapi.tiangolo.com/)
 [![Go](https://img.shields.io/badge/--00ADD8?logo=go&logoColor=ffffff)](https://golang.org/)
 [![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-[![Xrpl](https://badgen.net/badge/icon/xrpl?icon=xrp&label)](https://xrpl.org)
+[![Xrpl](https://img.shields.io/badge/--000?logo=XRP&logoColor=fff)](https://xrpl.org)
 [![Npm](https://badgen.net/badge/icon/npm?icon=npm&label)](https://https://npmjs.com/)
 [![PyPi](https://badgen.net/badge/icon/pypi?icon=pypi&label)](https://https://pypi.org/)
 [![git](https://img.shields.io/badge/--F05032?logo=git&logoColor=ffffff)](http://git-scm.com/)
@@ -36,6 +38,7 @@
 [![BitCoin](https://badgen.net/badge/icon/bitcoin?icon=bitcoin&label)](https://bitcoin.org)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
 
 
 [![hsaadi's 42 stats](https://badge42.vercel.app/api/v2/cl5s2p211013909jutf782quk/stats?cursusId=21&coalitionId=249)](https://github.com/JaeSeoKim/badge42)
