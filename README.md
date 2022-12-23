@@ -2,25 +2,22 @@
 
 ### Hello there, I'm Hafid Saadi ! 👋
 
-- 🏫 I’m currently learning coding and programming at 42 Quebec https://42quebec.com/
-- 👫 I’m looking to collaborate on [https://github.com/byltek](https://github.com/byltek)
-- ⵣ Cofounder of [https://github.com/iflisen](https://github.com/iflisen)
-- 💻 I’m currently learning C/C++, Python and Javascript
+- 🏫 Currently learning coding and programming at 42 Quebec [42quebec](https://42quebec.com/)
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp;Learning C/C++, Typescript and Python
+- 👫 Actively looking to collaborate on [BylTek](https://github.com/byltek)
+- ⵣ Actif Memeber of [Iflisen](https://github.com/iflisen) 🏴‍☠️
 - 🧲 I'm passionate about blockchain and decentralization
-- 💬 Ask me about any Programming/coding/tech related stuff
-- 📮 How to reach me? 👇 or on (http://iflis.hns.to/) 
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about any Programming/coding/tech related stuff
+- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: 👇 or on [Iflis](http://iflis.hns.to/)
 
 
-<p align="center">  
-<a href="https://twitter.com/iflis7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" 
-alt="iflis7" height="30" width="30" /></a>
-<a href="https://fb.com/iflis7.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" 
-alt="iflis7" height="30" width="30" /></a>
-<a href="https://instagram.com/iflis7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" 
-alt="iflis7" height="30" width="30" /></a>
- <img src="https://komarev.com/ghpvc/?username=iflis7" alt="iflis7" /> 
+
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/hafidsaadi) 
+ [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iflis7)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iflis7/)
+ <img src="https://komarev.com/ghpvc/?username=iflis7" alt="iflis7" />
 <hr>
-</p>
+
 
 [![GitHub followers](https://img.shields.io/github/followers/iflis7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/iflis7?tab=followers)
 [![Linux](https://img.shields.io/badge/--1177AA?logo=linux&logoColor=000)](https://linux.org/)
@@ -41,16 +38,16 @@ alt="iflis7" height="30" width="30" /></a>
 [![Open Source Love svg3](https://badges.frapsoft.com/os/v3/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
-[![hsaadi's 42 stats](https://badge42.vercel.app/api/v2/cl5s2p211013909jutf782quk/stats?cursusId=21&coalitionId=249)](https://github.com/JaeSeoKim/badge42) 
+[![hsaadi's 42 stats](https://badge42.vercel.app/api/v2/cl5s2p211013909jutf782quk/stats?cursusId=21&coalitionId=249)](https://github.com/JaeSeoKim/badge42)
 
 
 
 <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iflis7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iflis7&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iflis7&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=10"/>
 </p>
 
 
-<p align="center"> <strong> Show some ♥ follow me on 👉   </strong> <a href="https://twitter.com/iflis7" target="blank"><img src="https://img.shields.io/twitter/follow/iflis7?logo=twitter&style=for-the-badge" 
+<p align="center"><a href="https://twitter.com/iflis7" target="blank"><img src="https://img.shields.io/twitter/follow/iflis7?logo=twitter&style=for-the-badge" 
 alt="iflis7" /></a>
 </p>
