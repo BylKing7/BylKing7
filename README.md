@@ -1,14 +1,14 @@
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="300" />
+<img align="right" alt="GIF" src="https://github.com/iflis7/profil-assets/blob/main/coding.gif?raw=true" width="408" height="300" />
 
 ### Hello there, I'm Hafid Saadi ! 👋
 
 - 🏫 Currently learning coding and programming at 42 Quebec [42quebec](https://42quebec.com/)
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/laptop.gif?raw=true" width="21" />&nbsp;&nbsp;Learning C/C++, Typescript and Python
+- <img src="https://github.com/iflis7/profil-assets/blob/main/laptop.gif?raw=true" width="21" />&nbsp;&nbsp;Learning C/C++, Typescript and Python
 - 👫 Actively looking to collaborate on [BylTek](https://github.com/byltek)
 - ⵣ Actif Memeber of [Iflisen](https://github.com/iflisen) 🏴‍☠️
 - 🧲 I'm passionate about blockchain and decentralization
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about any Programming/coding/tech related stuff
-- <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: 👇 or on [Iflis](http://iflis.hns.to/)
+- <img src="https://github.com/iflis7/profil-assets/blob/main/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about any Programming/coding/tech related stuff
+- <img src="https://github.com/iflis7/profil-assets/blob/main/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: 👇 or on [Iflis](http://iflis.hns.to/)
 
 
 
@@ -41,13 +41,14 @@
 
 
 
-[![hsaadi's 42 stats](https://badge42.vercel.app/api/v2/cl5s2p211013909jutf782quk/stats?cursusId=21&coalitionId=249)](https://github.com/JaeSeoKim/badge42)
-
+<p align="center">
+  <img src="https://badge42.vercel.app/api/v2/cl5s2p211013909jutf782quk/stats?cursusId=21&coalitionId=249" alt="hsaadi's 42 stats"/>
+</p>
 
 
 <p align="center"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iflis7&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iflis7&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iflis7&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=false&layout=compact&langs_count=15"/>
 </p>
 
 
