@@ -12,7 +12,7 @@
 
 
 
- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=social&logo=Linkedin&logoColor=blue)](https://linkedin.com/in/hafidsaadi) 
+ [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=social&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/hafid-saadi/) 
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=social&logo=Twitter&logoColor=blue)](https://twitter.com/iflis7)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=social&logo=Instagram&logoColor=red)](https://instagram.com/iflis7/)
  <img src="https://komarev.com/ghpvc/?username=iflis7" alt="iflis7" />
