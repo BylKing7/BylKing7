@@ -8,7 +8,7 @@
 - ⵣ Actif Memeber of [Iflisen](https://github.com/iflisen) 🏴‍☠️
 - 🧲 I'm passionate about blockchain and decentralization
 - <img src="https://github.com/iflis7/profil-assets/blob/main/message.gif?raw=true" width="21" />&nbsp;&nbsp; Ask me about any Programming/coding/tech related stuff
-- <img src="https://github.com/iflis7/profil-assets/blob/main/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: 👇 or on [Iflis](http://iflis.hns.to/)
+- <img src="https://github.com/iflis7/profil-assets/blob/main/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp; How to reach me: 👇 or on [Iflis](https://www.iflis.xyz)
 
 
 
